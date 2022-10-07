@@ -1,0 +1,40 @@
+body{
+    background-color: #ffefd9;
+    margin: 0;
+    padding: 0;
+}
+.mainresimolcu{
+height: 150px;
+width: 150px;
+user-select: none;
+}
+.atagi{
+    text-decoration: none;
+    color:gray;
+}
+.ustbar{
+    cursor: pointer;
+    user-select: none;
+}
+.ustbar:hover{
+    transform: scale(1.1);
+}
+.ustbilgi{
+    margin-left: 150px;
+}
+.kartarkaplan{
+background-color: bisque;
+height: 370px;
+}
+.footer{
+position: relative;
+bottom: 0;
+height: 120px;
+width: 100%;
+background-color: black;
+}
+.footerp{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 15px;
+}
